@@ -30,7 +30,7 @@
 | 17   | Write a program that prints the squares of numbers from 1 to 10.                                                                                                                                               | [Solution 17](/module_1/medium/solution_17.py) |
 | 18   | Write a program that asks the user to enter a word and then prints each character of the word on a new line.                                                                                                   | [Solution 18](/module_1/medium/solution_18.py) |
 
-### Difficult
+#### Difficult
 
 | S.N. | Question                                                                                                                                                                                                  | Solution                                          |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
