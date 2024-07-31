@@ -13,6 +13,10 @@ def draw_shape(shape, size, char="*"):
         None
     """
     for i in range(size):
-        print(size * char)
+        if shape == "square":
+            print(size * char)
+
+        elif shape == "triangle":
+            print()
 
 draw_shape("square" , 3)

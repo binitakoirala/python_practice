@@ -15,7 +15,7 @@ def calculate_monthly_payment(principal, rate, years):
     monthly_rate = rate / 12
     loan_term = years * 12
     
-    pay = (principal * monthly_rate) / (1 - (1 + monthly_rate) ** (-loan_term))
+    pay = (principal * monthly_rate) / (1 - (1 + monthly_rate) ** (-loan_term)) # ** represents power.
     return round(pay, 2)
 
 monthly_payment = calculate_monthly_payment(20000, 5, 5)

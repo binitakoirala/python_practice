@@ -17,4 +17,4 @@ def validate_email(email):
         return True
     return False
 
-print(validate_email("@binitagmail.com"))
+print(validate_email("binita.k.r@gmail.com.np"))
